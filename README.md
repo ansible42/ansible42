@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning golang and messing around with some raspi projects 
 
-- 📫 How to reach me [here](https://www.linkedin.com/in/taylor-kendall-seattle/)
+- 📫 How to reach me [here](https://www.linkedin.com/in/taylor-kendall-seattle/) or <a rel="me" href="https://hinish.net/@argaven">here</a>
 
 <!---
 ansible42/ansible42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
